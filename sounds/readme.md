@@ -1,0 +1,1 @@
+online convert https://online-audio-converter.com/ko/를 쓰는데 웬만하면 CD품질 44.1khz로 변환해서 써야지
