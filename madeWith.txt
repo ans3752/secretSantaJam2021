@@ -1,0 +1,26 @@
+made with dragon ruby, piskel, https://freesound.org/, movieSound site, garageband, Microsoft Paint, sketchbook app, google font, audacity.
+edited original baymax gif and cinderella gif with piskel. using audacity, I edited the some sounds below.
+
+
+as "balloon1", from <https://freesound.org/people/wuola/sounds/168265/>
+as "balloon0", from <https://freesound.org/people/Gniffelbaf/sounds/82166/>
+
+as "darthVader/mostImpressive", from <https://movie-sounds.org/sci-fi-movie-samples/quotes-with-sound-clips-from-star-wars-episode-v-the-empire-strikes-back/impressive-most-impressive#download>
+as "darthVader/dontFail" from site <https://movie-sounds.org>
+as "deflateBalloon", from <https://freesound.org/people/JuanLasso/sounds/491733/>
+as "baymax/lowBattery", from <https://movie-sounds.org/disney-movie-sound-clips/quotes-with-sound-clips-from-big-hero-6/low-battery-h4w>
+
+as "creak.wav", from <https://freesound.org/people/Q.K./sounds/56232/>
+as "gas0", Mp3, 1378Kbps, 172.6KB, from <https://freesound.org/people/mwirth/sounds/137174/>
+as "gasBottleClang", .wav, 96000Hz, 24bit, 3.3MB, from <https://freesound.org/people/ldezem/sounds/386180/>
+as "gasSteam", from <https://freesound.org/people/joseph.larralde/sounds/405407/>
+as "gasRelease", from <https://freesound.org/people/adgawrhbshbffsfgvsrf/sounds/494044/>
+as "gasCooker", from <https://freesound.org/people/Fabrizio84/sounds/457587/>
+as "snoring", from <https://freesound.org/people/smidoid/sounds/63349/>
+as "switch", from <https://freesound.org/people/MastersDisaster/sounds/218115/>
+as "Titillium*.ttf", under OpenFontLicense, from <https://fonts.google.com/specimen/Titillium+Web#standard-styles>
+as "goat", from "https://freesound.org/people/ariat/sounds/164789/" 
+as "gummy', from "https://freesound.org/people/Mixtos/sounds/463590/"
+as editDial, from "https://freesound.org/people/ramicio/sounds/158427/"
+as fly, from "https://freesound.org/people/SamuelGremaud/sounds/545765/"
+as break, from "https://freesound.org/people/Usernameis1337/sounds/536657/"
